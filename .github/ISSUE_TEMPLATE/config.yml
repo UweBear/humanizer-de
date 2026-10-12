@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: AI detectors still flag the output
+    url: https://github.com/UweBear/humanizer-de#humanizer-de
+    about: Getting past AI detectors is not a goal. Humanizer DE edits for human readers.
+  - name: English text
+    url: https://github.com/blader/humanizer
+    about: For English text, use the original Humanizer.

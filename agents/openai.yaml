@@ -1,0 +1,4 @@
+interface:
+  display_name: "Humanizer DE"
+  short_description: "Make AI-written German text sound like the writer"
+  default_prompt: "Use $humanizer-de to rewrite this German text in my voice without changing its facts."

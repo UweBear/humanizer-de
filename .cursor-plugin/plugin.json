@@ -1,0 +1,12 @@
+{
+  "name": "humanizer-de",
+  "description": "Rewrite AI-sounding German text so it reads like the writer without changing what it says.",
+  "version": "1.0.0",
+  "author": {
+    "name": "UweBear"
+  },
+  "homepage": "https://github.com/UweBear/humanizer-de",
+  "repository": "https://github.com/UweBear/humanizer-de",
+  "license": "MIT",
+  "keywords": ["writing", "editing", "humanize", "prose", "style", "german", "deutsch"]
+}
