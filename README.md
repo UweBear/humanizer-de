@@ -64,7 +64,7 @@ Download this repository as a ZIP (**Code → Download ZIP**) and upload it as a
 npx skills add UweBear/humanizer-de --global --agent '*'
 ```
 
-Leave off `--global` in any command above to install it only in the current project. For an agent the Skills CLI does not know, copy `SKILL.md` and `LICENSE` into its skill folder.
+Leave off `--global` in any command above to install it only in the current project. For an agent the Skills CLI does not know, copy `SKILL.md` into its skill folder. It carries the license text.
 
 Humanizer DE and Humanizer can be installed side by side. The description of Humanizer DE names German text, so an agent can tell them apart. To be sure, call the skill by name.
 

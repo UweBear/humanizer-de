@@ -416,3 +416,30 @@ Keep the details that carry the writer's voice unless they hurt the meaning:
 ## Source
 
 This skill adapts [blader/humanizer](https://github.com/blader/humanizer) 3.1.0 (MIT, Copyright (c) 2025 Siqi Chen) to German. Its patterns come from Wikipedia's ["Signs of AI writing"](https://en.wikipedia.org/wiki/Wikipedia:Signs_of_AI_writing), maintained by WikiProject AI Cleanup. The German watch lists, section E, §8, §11, and the German dash rule in §9 are additions for German. They rest on a t3n article, an LMU Munich checklist for assessing student papers, and observation, not on a systematic study.
+
+License of the original and of this adaptation:
+
+```
+MIT License
+
+Copyright (c) 2025 Siqi Chen
+Copyright (c) 2026 UweBear
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+```

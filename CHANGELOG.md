@@ -13,4 +13,5 @@ First release. German adaptation of [blader/humanizer](https://github.com/blader
 - §18 also treats invented titles, page numbers, years, or DOIs as a certain tell.
 - §28 keeps the original's reviewer rule and adds the evidence guard.
 - Rewrote before/after examples so no "After" adds a fact the "Before" lacks, including several examples carried over from the original.
+- SKILL.md carries the full MIT notice, so a copy of that file alone stays compliant.
 - Kept the writer's conventions out of scope: *du* or *Sie*, gender-inclusive spelling, spelling variants, technical terms.
